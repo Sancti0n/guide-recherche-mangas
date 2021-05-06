@@ -5,6 +5,6 @@ Guide pour rechercher des mangas en ligne au format broché ou en ebook
 - lisez.com
     - 12-21
     - Kurokawa
-    - Numilog
+- Numilog
 
 ## Broché
