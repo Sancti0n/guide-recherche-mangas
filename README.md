@@ -15,6 +15,7 @@ Guide pour rechercher des mangas en ligne au format broché ou en ebook
 - French
     - Leboncoin
     - Chasse aux livres
+    - Ebay
 
 - English
     - Ebay
