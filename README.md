@@ -18,7 +18,7 @@ Guide pour rechercher des mangas en ligne au format broché ou en ebook
 
 ### English
 | Ebay | Book Walker | Book Depository | Books A Million | Valore Books |
-|----------|:-------------:|------:|------:|------:|
+|:----------:|:-------------:|:------:|:------:|:------:|
 | **Thriftbooks** | **Biblio** | **Alibris** | **Carousell** | **Barnes and Noble** |
 | **Chapters Indigo** | **AbeBooks** | **Archonia** | **JCollectibles** |
 
