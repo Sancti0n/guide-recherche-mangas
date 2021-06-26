@@ -12,16 +12,13 @@ Guide pour rechercher des mangas en ligne au format broché ou en ebook
 
 ## Brochés
 
-- French
-    - Leboncoin
-    - Chasse aux livres
-    - Ebay
+### French
+| Leboncoin | Chasse aux lives | Ebay |
+|----------|:-------------:|------:|
 
 - English
     - Ebay
     - Book Walker
-        - Mangas
-        - Light Novel
     - Book Depository
     - Books A Million
     - Valore Books
@@ -33,6 +30,7 @@ Guide pour rechercher des mangas en ligne au format broché ou en ebook
     - Chapters Indigo
     - AbeBooks
     - Archonia
+    - JCollectibles
 
 ### Trackers Amazon
 
