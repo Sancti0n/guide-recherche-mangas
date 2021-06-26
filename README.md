@@ -4,17 +4,14 @@ Guide pour rechercher des mangas en ligne au format broché ou en ebook
 
 ## Ebooks
 
-- lisez.com
-  - 12-21
-  - Kurokawa
-- Numilog
-- Kobo Rakuten
+| lisez.com | Numilog | Kobo Rakuten |
+|:----------:|:-------------:|:------:|
 
 ## Brochés
 
 ### French
 | Leboncoin | Chasse aux lives | Ebay |
-|----------|:-------------:|------:|
+|:----------:|:-------------:|:------:|
 
 ### English
 | Ebay | Book Walker | Book Depository | Books A Million | Valore Books |
@@ -25,4 +22,4 @@ Guide pour rechercher des mangas en ligne au format broché ou en ebook
 ### Trackers Amazon
 
 | Camel Camel Camel |
-|-:|
+|:-:|
