@@ -18,6 +18,7 @@ Guide pour rechercher des mangas en ligne au format broché ou en ebook
 |:----------:|:-------------:|:------:|:------:|:------:|
 | **Thriftbooks** | **Biblio** | **Alibris** | **Carousell** | **Barnes and Noble** |
 | **Chapters Indigo** | **AbeBooks** | **Archonia** | **JCollectibles** | **Sol Press** |
+| **Takara Café** |
 
 ### Trackers Amazon
 
