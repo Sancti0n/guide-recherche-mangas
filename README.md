@@ -18,9 +18,14 @@ Guide pour rechercher des mangas en ligne au format broché ou en ebook
 |:----------:|:-------------:|:------:|:------:|:------:|
 | **Thriftbooks** | **Biblio** | **Alibris** | **Carousell** | **Barnes and Noble** |
 | **Chapters Indigo** | **AbeBooks** | **Archonia** | **JCollectibles** | **Sol Press** |
-| **Takara Café** |
+| **Takara Café** | **Cheap Manga** | **Anime Castle** | **Booko** | **Smith & Son** |
+| **Kinokuniya** | **Waterstones** | **Bookfinder** | **Music Magpie** | **Books Please** |
 
 ### Trackers Amazon
 
 | Camel Camel Camel |
 |:-:|
+
+### Blog Shop
+
+| mangaworthreading |
