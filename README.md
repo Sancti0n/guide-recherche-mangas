@@ -20,7 +20,7 @@ Guide pour rechercher des mangas en ligne au format broché ou en ebook
 | **Chapters Indigo** | **AbeBooks** | **Archonia** | **JCollectibles** | **Sol Press** |
 | **Takara Café** | **Cheap Manga** | **Anime Castle** | **Booko** | **Smith & Son** |
 | **Kinokuniya** | **Waterstones** | **Bookfinder** | **Music Magpie** | **Books Please** |
-| **Book Shop** |
+| **Book Shop** | **WHSmith** | **Snazal** | **Blackwells** | **Japancraft** |
 
 ### Trackers Amazon
 
