@@ -21,8 +21,8 @@ Guide pour rechercher des mangas en ligne au format broché ou en ebook
 | **Takara Café** | **Cheap Manga** | **Anime Castle** | **Booko** | **Smith & Son** |
 | **Kinokuniya** | **Waterstones** | **Bookfinder** | **Music Magpie** | **Books Please** |
 | **Book Shop** | **WHSmith** | **Snazal** | **Blackwells** | **Japancraft** |
-| **BetterWorldBooks** | **Bigger Books** | **Book Scouter** |
-| **Kennys** | **Bookgrocer** | **Wordery** |
+| **BetterWorldBooks** | **Bigger Books** | **Book Scouter** | **Kennys** | **Bookgrocer** |
+| **Wordery** |
 
 ### Trackers Amazon
 
